@@ -1,4 +1,5 @@
 # crudbiblioteca
+El proyecto fue construido con SpringBoot y Java, está desarrollado por capas, controller para manejo de solicitudes HTTP, entity para las entidades descritas en el proyecto, Repository para manejo de la db con Jpa y el service para la lógica del negocio
 
 # Traer todos los libros (GET)
 http://localhost:8080/api/v1/books
